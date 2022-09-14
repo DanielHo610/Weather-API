@@ -1,1 +1,2 @@
-Gives the weather of the city
+Outputs the weather of a specific city the user inputs
+
